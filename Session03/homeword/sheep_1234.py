@@ -23,7 +23,7 @@ print()
 print("\t",sizes)
 print()
 
-print("2.3 : In the following month, EVERY sheep in your flock grow, they have their size increased by 50 " )
+print("2.4 : In the following month, EVERY sheep in your flock grow, they have their size increased by 50 " )
 print()
 # sheep_grow = int(input("Enter their size increased: "))
 temp = 0
